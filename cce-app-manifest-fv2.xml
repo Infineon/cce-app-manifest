@@ -3,7 +3,7 @@
     <name>Pressure Sensor App using DPS310</name>
     <id>cce-mtb-psoc6-dps310</id>
     <category>Community Code Examples</category>
-    <uri>https://github.com/Infineon/cce-mtb-psoc6-dps310</uri>
+    <uri>http://git-ore.aus.cypress.com/community_examples/cces/cce-mtb-psoc6-dps310</uri>
     <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This example demonstrates how to interface the Infineon DPS310 pressure sensors evaluation board with PSoC6 MCU. The sensor-xensive-dps3xx library is used in this example for initializing and reading of temperature and pressure data from the DPS310 Barometric pressure sensor.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc6-dps310/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
