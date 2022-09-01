@@ -18,4 +18,23 @@
       </version>
     </versions>
   </app>
+  <app keywords="psoc6,LTE,Sequans,Modem,PPP,GM01Q,connectivity" req_capabilities_v2="[cy8ckit_062_wifi_bt]">
+    <name>MQTT Client Over LTE</name>
+    <id>cce-mtb-mqtt-client-over-lte</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-mqtt-client-over-lte</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This community code example (CCE) demonstrates the implementation of LTE CAT M1 connectivity to PSoC6 via Point-to-Point Protocol (PPP). This CCE demonstrates the steps to add LTE connectivity to any existing Wi-Fi based code example. mtb-example-anycloud-mqtt-client is taken as a reference here. GM01Q_Sequans Module is used for providing LTE connectivity for PSoC6 device. The MQTT Library and lwIP is hosted in PSoC6 and the GM01Q Module communicates to PSoC6 via PPP.In order to test this sample you need Monarch-GM01Q-EVK and one of the PSoC6 kits mentioned in Supported kit section.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-mqtt-client-over-lte/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.0" req_capabilities_per_version="bsp_gen3">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.0" req_capabilities_per_version="bsp_gen3">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
 </apps>
