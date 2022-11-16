@@ -37,4 +37,42 @@
       </version>
     </versions>
   </app>
+  <app keywords="psoc6,lvd,mtb-flow" req_capabilities_v2="[cy8cproto_062_4343w]">
+    <name>Low Voltage Detection</name>
+    <id>cce-mtb-psoc6-lvd</id>
+    <category>Community Code Examples</category>
+    <uri>https://gitlab.intra.infineon.com/community_examples/cces/cce-mtb-psoc6-lvd</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example demonstrates how to configure a PSoC 6 Low Voltage Block to generate interrupt when the voltage level crosses the set threshold.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc6-lvd/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen3">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen3">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="psoc4,capsense,fss,mtb-flow" req_capabilities_v2="[cy8ckit_149,cy8ckit_145_40xx]">
+    <name>CapSense Flanking Sensor Suppression</name>
+    <id>cce-mtb-psoc4-capsense-fss</id>
+    <category>Community Code Examples</category>
+    <uri>https://gitlab.intra.infineon.com/community_examples/cces/cce-mtb-psoc4-capsense-fss</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example implements Flanking Sensor Suppression (FSS) in PSoC&#8482; 4 devices. FSS eliminates false touches by distinguishing between signals from closely spaced buttons. In the project, three sensors have been used to demonstrate FSS. Whenever multiple sensors are touched, only the sensor whose touch was detected first remains active, and the other sensors are rendered inactive, i.e., their touch (if any) is rendered invalid until the sensor whose touch was detected first is active. This eliminates sensors, which are closely spaced, from being falsely triggered at the same time.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc4-capsense-fss/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen3">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen3">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
 </apps>
