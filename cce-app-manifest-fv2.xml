@@ -41,7 +41,7 @@
     <name>Low Voltage Detection</name>
     <id>cce-mtb-psoc6-lvd</id>
     <category>Community Code Examples</category>
-    <uri>https://gitlab.intra.infineon.com/community_examples/cces/cce-mtb-psoc6-lvd</uri>
+    <uri>https://github.com/Infineon/cce-mtb-psoc6-lvd</uri>
     <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example demonstrates how to configure a PSoC 6 Low Voltage Block to generate interrupt when the voltage level crosses the set threshold.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc6-lvd/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
@@ -60,7 +60,7 @@
     <name>CapSense Flanking Sensor Suppression</name>
     <id>cce-mtb-psoc4-capsense-fss</id>
     <category>Community Code Examples</category>
-    <uri>https://gitlab.intra.infineon.com/community_examples/cces/cce-mtb-psoc4-capsense-fss</uri>
+    <uri>https://github.com/Infineon/cce-mtb-psoc4-capsense-fss</uri>
     <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example implements Flanking Sensor Suppression (FSS) in PSoC&#8482; 4 devices. FSS eliminates false touches by distinguishing between signals from closely spaced buttons. In the project, three sensors have been used to demonstrate FSS. Whenever multiple sensors are touched, only the sensor whose touch was detected first remains active, and the other sensors are rendered inactive, i.e., their touch (if any) is rendered invalid until the sensor whose touch was detected first is active. This eliminates sensors, which are closely spaced, from being falsely triggered at the same time.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc4-capsense-fss/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc4</req_capabilities>
