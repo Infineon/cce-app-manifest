@@ -83,4 +83,25 @@
       </version>
     </versions>
   </app>
+  <app keywords="psoc61,mcuboot,cce,bootloader" req_capabilities_v2="[cy8ckit_062s2_43012]">
+    <name>MCUboot based Basic Bootloader for PSoC 61</name>
+    <id>cce-mtb-psoc61-mcuboot-bootloader</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-psoc61-mcuboot-bootloader</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>They are intended to demonstrate how a solution / concept / use-case can be achieved on a particular device.
+      This community code example (CCE) demonstrates the implementation of MCUBoot based bootloader for PSoC&#8482; 61 MCU devices. This CCE is derived from mtb-example-psoc6-mcuboot-basic and PSoC61 support to run both Application and Bootloader from CM4 CPU is added.
+      In order to test this sample you need target board with PSoC61. You can replace the PSoC6 IC on one of the PSoC&#8482; 6 development kits with PSoC&#8482; 61 MCU IC.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc61-mcuboot-bootloader/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
 </apps>
