@@ -4,7 +4,7 @@
     <id>cce-mtb-psoc6-dps310</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-dps310</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This example demonstrates how to interface the Infineon DPS310 pressure sensors evaluation board with PSoC6 MCU. The sensor-xensive-dps3xx library is used in this example for initializing and reading of temperature and pressure data from the DPS310 Barometric pressure sensor.
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This example demonstrates how to interface the Infineon DPS310 pressure sensors evaluation board with PSoC&#8482; 6 MCU. The sensor-xensive-dps3xx library is used in this example for initializing and reading of temperature and pressure data from the DPS310 Barometric pressure sensor.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc6-dps310/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -27,7 +27,7 @@
     <id>cce-mtb-mqtt-client-over-lte</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-mqtt-client-over-lte</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This community code example (CCE) demonstrates the implementation of LTE CAT M1 connectivity to PSoC6 via Point-to-Point Protocol (PPP). This CCE demonstrates the steps to add LTE connectivity to any existing Wi-Fi based code example. mtb-example-anycloud-mqtt-client is taken as a reference here. GM01Q_Sequans Module is used for providing LTE connectivity for PSoC6 device. The MQTT Library and lwIP is hosted in PSoC6 and the GM01Q Module communicates to PSoC6 via PPP.In order to test this sample you need Monarch-GM01Q-EVK and one of the PSoC6 kits mentioned in Supported kit section.
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This community code example (CCE) demonstrates the implementation of LTE CAT M1 connectivity to PSoC&#8482; 6 via Point-to-Point Protocol (PPP). This CCE demonstrates the steps to add LTE connectivity to any existing Wi-Fi based code example. mtb-example-anycloud-mqtt-client is taken as a reference here. GM01Q_Sequans Module is used for providing LTE connectivity for PSoC&#8482; 6 device. The MQTT Library and lwIP is hosted in PSoC&#8482; 6 and the GM01Q Module communicates to PSoC&#8482; 6 via PPP.In order to test this sample you need Monarch-GM01Q-EVK and one of the PSoC&#8482; 6 kits mentioned in Supported kit section.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-mqtt-client-over-lte/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -50,7 +50,7 @@
     <id>cce-mtb-psoc6-lvd</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-lvd</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example demonstrates how to configure a PSoC 6 Low Voltage Block to generate interrupt when the voltage level crosses the set threshold.
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example demonstrates how to configure a PSoC&#8482; 6 Low Voltage Block to generate interrupt when the voltage level crosses the set threshold.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc6-lvd/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -65,7 +65,7 @@
     </versions>
   </app>
   <app keywords="psoc4,capsense,fss,mtb-flow" req_capabilities_v2="[cy8ckit_149,cy8ckit_145_40xx]">
-    <name>CapSense Flanking Sensor Suppression</name>
+    <name>CAPSENSE&#8482; Flanking Sensor Suppression</name>
     <id>cce-mtb-psoc4-capsense-fss</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-capsense-fss</uri>
@@ -89,8 +89,8 @@
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc61-mcuboot-bootloader</uri>
     <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>They are intended to demonstrate how a solution / concept / use-case can be achieved on a particular device.
-      This community code example (CCE) demonstrates the implementation of MCUBoot based bootloader for PSoC&#8482; 61 MCU devices. This CCE is derived from mtb-example-psoc6-mcuboot-basic and PSoC61 support to run both Application and Bootloader from CM4 CPU is added.
-      In order to test this sample you need target board with PSoC61. You can replace the PSoC6 IC on one of the PSoC&#8482; 6 development kits with PSoC&#8482; 61 MCU IC.
+      This community code example (CCE) demonstrates the implementation of MCUBoot based bootloader for PSoC&#8482; 61 MCU devices. This CCE is derived from mtb-example-psoc6-mcuboot-basic and PSoC&#8482; 61 support to run both Application and Bootloader from CM4 CPU is added.
+      In order to test this sample you need target board with PSoC&#8482; 61. You can replace the PSoC&#8482; 6 IC on one of the PSoC&#8482; 6 development kits with PSoC&#8482; 61 MCU IC.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc61-mcuboot-bootloader/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -99,6 +99,48 @@
         <commit>latest-v1.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="psoc4,capsense,pipeline,scanning" req_capabilities_v2="[cy8ckit_149]">
+    <name>PSoC4 MCU: CAPSENSE&#8482; with Pipeline Scanning</name>
+    <id>cce-mtb-psoc4-capsense-pipeline-scanning</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-psoc4-capsense-pipeline-scanning</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>They are intended to demonstrate how a solution / concept / use-case can be achieved on a particular device.
+      This code example demonstrates how to implement pipeline scanning in CAPSENSE&#8482; to improve performance. When a particular widget is being processed, the next widget in line can be scanned parallelly. This is better than conventional method of scanning all the widgets and then processing the scanned data later altogether. This reduces net scan time for the application.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc4-capsense-pipeline-scanning/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen4">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="psoc6,Bluetooth,A2DP,mtb-flow" req_capabilities_v2="[cy8ckit_062s2_43012,cy8cproto_062_4343w]">
+    <name>PSoC6 Bluetooth A2DP Source</name>
+    <id>cce-mtb-psoc6-bt-a2dp-source</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-psoc6-bt-a2dp-source</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
+    released for the benefit of the community users. These projects have only 
+    been tested for the listed BSPs, tools versions and toolchains documented in 
+    the Readme.<br><br>This application demonstrates Bluetooth A2DP audio streaming at 48KHz, 16 bit, stereo on PSoC 6 devices. <br><br>For more details, see the 
+    <a href="https://github.com/Infineon/cce-mtb-psoc6-bt-a2dp-source/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
