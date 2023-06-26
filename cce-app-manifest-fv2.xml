@@ -65,7 +65,7 @@
     </versions>
   </app>
   <app keywords="psoc4,capsense,fss,mtb-flow" req_capabilities_v2="[cy8ckit_149,cy8ckit_145_40xx]">
-    <name>CAPSENSE&#8482; Flanking Sensor Suppression</name>
+    <name>CAPSENSE Flanking Sensor Suppression</name>
     <id>cce-mtb-psoc4-capsense-fss</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-capsense-fss</uri>
@@ -105,7 +105,7 @@
     </versions>
   </app>
   <app keywords="psoc4,capsense,pipeline,scanning" req_capabilities_v2="[cy8ckit_149]">
-    <name>PSoC4 MCU: CAPSENSE&#8482; with Pipeline Scanning</name>
+    <name>PSoC4 CAPSENSE with Pipeline Scanning</name>
     <id>cce-mtb-psoc4-capsense-pipeline-scanning</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-capsense-pipeline-scanning</uri>
@@ -134,6 +134,28 @@
     been tested for the listed BSPs, tools versions and toolchains documented in 
     the Readme.<br><br>This application demonstrates Bluetooth A2DP audio streaming at 48KHz, 16 bit, stereo on PSoC 6 devices. <br><br>For more details, see the 
     <a href="https://github.com/Infineon/cce-mtb-psoc6-bt-a2dp-source/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="psoc6,SAR,ADC,mtb-flow" req_capabilities_v2="[cy8ckit_062s2_43012,cy8cproto_062_4343w, cy8ckit_062_wifi_bt]">
+    <name>PSoC6 Extending the number of SAR ADC channels</name>
+    <id>cce-mtb-psoc6-amux-sar-adc</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-psoc6-amux-sar-adc</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
+    released for the benefit of the community users. These projects have only 
+    been tested for the listed BSPs, tools versions and toolchains documented in 
+    the Readme.<br><br>This code example demonstrates how to extend the number of SAR ADC channels to virtually any available analog pin in the device without much impact on the sampling speed. It is implemented totally in hardware by using the global analog mux, instead of the SAR mux sequencer <br><br>For more details, see the 
+    <a href="https://github.com/Infineon/cce-mtb-psoc6-amux-sar-adc/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
