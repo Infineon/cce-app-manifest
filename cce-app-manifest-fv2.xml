@@ -99,6 +99,10 @@
         <commit>latest-v1.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.1" req_capabilities_per_version="bsp_gen4">
+        <num>1.0.1 release</num>
+        <commit>release-v1.0.1</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.1" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
@@ -190,7 +194,7 @@
     </versions>
   </app>
   <app keywords="psoc6,tcpwm,timer,interrupt,mtb-flow" req_capabilities_v2="[cy8ckit_062_ble,cy8ckit_062s2_43012,cy8cproto_062_4343w, cy8ckit_062_wifi_bt]">
-    <name>PSoC6 MCU: Interrupt TCPWM</name>
+    <name>PSoC6 MCU Interrupt TCPWM</name>
     <id>cce-mtb-psoc6-tcpwm-interrupt</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-tcpwm-interrupt</uri>
@@ -225,6 +229,28 @@
         <commit>latest-v1.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="3.1.0" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="psoc4,capsense,guard-sensor,mtb-flow" req_capabilities_v2="[cy8ckit_041s_max]">
+    <name>PSoC4 MCU CAPSENSE MSC Guard Sensor</name>
+    <id>cce-mtb-psoc4-msc-capsense-guard</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-psoc4-msc-capsense-guard</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
+    released for the benefit of the community users. These projects have only 
+    been tested for the listed BSPs, tools versions and toolchains documented in 
+    the Readme.<br><br>This code example features the CAPSENSE&#8482; guard sensor in PSoC&#8482; 4 devices with Multi sense converter (MSC). The on-board LED will glow when touch is detected on trackpad but when the guard sensor is triggered due to liquid stream present on guard sensor surface, the on-board LED will stop glowing. The code example also demonstrates monitoring CAPSENSE&#8482; data using the CAPSENSE&#8482; Tuner GUI tool <br><br>For more details, see the 
+    <a href="https://github.com/Infineon/cce-mtb-psoc4-msc-capsense-guard/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
