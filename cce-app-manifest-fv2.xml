@@ -246,11 +246,55 @@
     <a href="https://github.com/Infineon/cce-mtb-psoc4-msc-capsense-guard/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc4</req_capabilities>
     <versions>
-      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.1" req_capabilities_per_version="bsp_gen3">
         <num>Latest 1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.1" req_capabilities_per_version="bsp_gen3">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="psoc4,flash,chip,protection,mtb-flow" req_capabilities_v2="[cy8ckit_149]">
+    <name>PSoC4 MCU Flash and Chip Protection</name>
+    <id>cce-mtb-psoc4-flash-and-chip-protection</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-psoc4-flash-and-chip-protection</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
+    released for the benefit of the community users. These projects have only 
+    been tested for the listed BSPs, tools versions and toolchains documented in 
+    the Readme.<br><br>This code example demonstrates how to add flash and chip protection settings into the hex file. Flash memory is organized in rows. You can assign one of two protection levels to each row(Unprotected, Full Protection). Flash protection levels can only be changed by performing a complete flash erase <br><br>For more details, see the 
+    <a href="https://github.com/Infineon/cce-mtb-psoc4-flash-and-chip-protection/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.1" req_capabilities_per_version="bsp_gen3">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.1" req_capabilities_per_version="bsp_gen3">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="psoc4,i2s,transmit,mtb-flow " req_capabilities_v2="[cy8ckit_041s_max]">
+    <name>PSoC 4 MCU Inter-IC Sound</name>
+    <id>cce-mtb-psoc4-i2s</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-psoc4-i2s</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
+    released for the benefit of the community users. These projects have only 
+    been tested for the listed BSPs, tools versions and toolchains documented in 
+    the Readme.<br><br>This example demonstrates how the I2S block can be configured to transmit data for PSoC 4100S MAX devices. <br><br>For more details, see the 
+    <a href="https://github.com/Infineon/cce-mtb-psoc4-i2s/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.1" req_capabilities_per_version="bsp_gen3">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.1" req_capabilities_per_version="bsp_gen3">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
