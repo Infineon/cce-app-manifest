@@ -282,4 +282,26 @@
       </version>
     </versions>
   </app>
+  <app keywords="xmc1300,xmc1400,pmsm,foc,motor-control,sensorless,mtb-flow" req_capabilities_v2="[kit_xmc13_boot_001, kit_xmc14_boot_001]">
+    <name>XMC13-14 PMSM FOC SL DC</name>
+    <id>cce-mtb-xmc-pmsm-foc-sl-dc</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-xmc-pmsm-foc-sl-dc</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
+    released for the benefit of the community users. These projects have only 
+    been tested for the listed BSPs, tools versions and toolchains documented in 
+    the Readme.<br><br>This community code example (CCE) demonstrates the sensorless PMSM FOC motor control application using XMC1300/1400 Drive Card. In order to test this software; XMC1300 or XMC1400 Drive Card, 3-phase DC power board, and Nanotec DC motor (DB42S03) are needed.<br><br>For more details, see the 
+    <a href="https://github.com/Infineon/cce-mtb-xmc-pmsm-foc-sl/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>xmc1300 xmc1400</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
 </apps>
