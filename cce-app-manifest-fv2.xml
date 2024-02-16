@@ -286,7 +286,7 @@
       </version>
     </versions>
   </app>
-  <app keywords="xmc1300,xmc1400,pmsm,foc,motor-control,sensorless,mtb-flow" req_capabilities_v2="[kit_xmc13_boot_001, kit_xmc14_boot_001]">
+  <app keywords="xmc1300,xmc1400,pmsm,foc,motor-control,sensorless,mtb-flow" req_capabilities_v2="[kit_xmc1300_dc_v1, kit_xmc1400_dc_v1]">
     <name>XMC13-14 PMSM FOC SL DC</name>
     <id>cce-mtb-xmc-pmsm-foc-sl-dc</id>
     <category>Community Code Examples</category>
