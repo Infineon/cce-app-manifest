@@ -281,6 +281,10 @@
         <commit>latest-v1.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
@@ -301,6 +305,10 @@
       <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
         <num>Latest 1.X release</num>
         <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
@@ -371,6 +379,52 @@
         <commit>latest-v1.X</commit>
       </version>
       <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="psoc6,smbus,slave,mtb-flow" req_capabilities_v2="[cy8ckit_062_wifi_bt]">
+    <name>PSoC 6 MCU SMBus slave</name>
+    <id>cce-mtb-psoc6-smbus-slave</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-psoc6-smbus-slave</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
+    released for the benefit of the community users. These projects have only 
+    been tested for the listed BSPs, tools versions and toolchains documented in 
+    the Readme.<br><br>This example demonstrates how to implement the SMBus slave on top of an SCB I2C and Timer in PSoC 6.
+<br><br>For more details, see the 
+    <a href="https://github.com/Infineon/cce-mtb-psoc6-smbus-slave/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="psoc6,CTDAC,HAL,DAC,sine" req_capabilities_v2="[cy8ckit_062_ble]">
+    <name>HAL DAC using HAL</name>
+    <id>cce-mtb-cce-mtb-psoc6-dac-sine</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-psoc6-dac-sine</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
+    released for the benefit of the community users. These projects have only 
+    been tested for the listed BSPs, tools versions and toolchains documented in 
+    the Readme.<br><br>This code example demonstrates the use of the CTDAC HAL driver to generate a sine wave using the CTDAC component.In this example, the project uses a combination of device configurator and PDL APIs to achieve this.
+<br><br>For more details, see the 
+    <a href="https://github.com/Infineon/cce-mtb-psoc6-dac-sine/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.1.0" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
