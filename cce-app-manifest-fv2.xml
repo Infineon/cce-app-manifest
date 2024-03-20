@@ -324,7 +324,7 @@
       </version>
     </versions>
   </app>
-  <app keywords="xmc4400,pmsm,foc,motor-control,sensorless,mtb-flow" req_capabilities_v2="[kit_xmc_plt2go_xmc4400]">
+  <app keywords="xmc4400,pmsm,foc,motor-control,sensorless,mtb-flow" req_capabilities_v2="[kit_xmc4400_dc_v1]">
     <name>XMC44 PMSM FOC SL DC</name>
     <id>cce-mtb-xmc44-pmsm-foc-sl-dc</id>
     <category>Community Code Examples</category>
