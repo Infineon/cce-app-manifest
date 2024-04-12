@@ -145,10 +145,10 @@
     <id>cce-mtb-psoc6-bt-a2dp-source</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-bt-a2dp-source</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
-    the Readme.<br><br>This application demonstrates Bluetooth&#174; A2DP audio streaming at 48KHz, 16 bit, stereo on PSoC&#8482; 6 devices. <br><br>For more details, see the 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This application demonstrates Bluetooth&#174; A2DP audio streaming at 48KHz, 16 bit, stereo on PSoC&#8482; 6 devices. <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc6-bt-a2dp-source/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -171,10 +171,10 @@
     <id>cce-mtb-psoc6-amux-sar-adc</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-amux-sar-adc</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
-    the Readme.<br><br>This code example demonstrates how to extend the number of SAR ADC channels to virtually any available analog pin in the device without much impact on the sampling speed. It is implemented totally in hardware by using the global analog mux, instead of the SAR mux sequencer <br><br>For more details, see the 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This code example demonstrates how to extend the number of SAR ADC channels to virtually any available analog pin in the device without much impact on the sampling speed. It is implemented totally in hardware by using the global analog mux, instead of the SAR mux sequencer <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc6-amux-sar-adc/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -193,10 +193,10 @@
     <id>cce-mtb-psoc6-tcpwm-interrupt</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-tcpwm-interrupt</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
-    the Readme.<br><br>This code example demonstrates the generation of a periodic interrupt using timer counter PWM (TCPWM) in continuous up counter mode. <br><br>For more details, see the 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This code example demonstrates the generation of a periodic interrupt using timer counter PWM (TCPWM) in continuous up counter mode. <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc6-tcpwm-interrupt/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -215,10 +215,10 @@
     <id>cce-mtb-psoc4-msc-capsense-guard</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-msc-capsense-guard</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
-    the Readme.<br><br>This code example features the CAPSENSE&#8482; guard sensor in PSoC&#8482; 4 devices with Multi sense converter (MSC). The on-board LED will glow when touch is detected on trackpad but when the guard sensor is triggered due to liquid stream present on guard sensor surface, the on-board LED will stop glowing. The code example also demonstrates monitoring CAPSENSE&#8482; data using the CAPSENSE&#8482; Tuner GUI tool <br><br>For more details, see the 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This code example features the CAPSENSE&#8482; guard sensor in PSoC&#8482; 4 devices with Multi sense converter (MSC). The on-board LED will glow when touch is detected on trackpad but when the guard sensor is triggered due to liquid stream present on guard sensor surface, the on-board LED will stop glowing. The code example also demonstrates monitoring CAPSENSE&#8482; data using the CAPSENSE&#8482; Tuner GUI tool <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc4-msc-capsense-guard/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc4</req_capabilities>
     <versions>
@@ -237,10 +237,10 @@
     <id>cce-mtb-psoc4-flash-and-chip-protection</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-flash-and-chip-protection</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
-    the Readme.<br><br>This code example demonstrates how to add flash and chip protection settings into the hex file. Flash memory is organized in rows. You can assign one of two protection levels to each row(Unprotected, Full Protection). Flash protection levels can only be changed by performing a complete flash erase <br><br>For more details, see the 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This code example demonstrates how to add flash and chip protection settings into the hex file. Flash memory is organized in rows. You can assign one of two protection levels to each row(Unprotected, Full Protection). Flash protection levels can only be changed by performing a complete flash erase <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc4-flash-and-chip-protection/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc4</req_capabilities>
     <versions>
@@ -259,10 +259,10 @@
     <id>cce-mtb-psoc4-i2s</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-i2s</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
-    the Readme.<br><br>This example demonstrates how the I2S block can be configured to transmit data for PSoC 4100S MAX devices. <br><br>For more details, see the 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This example demonstrates how the I2S block can be configured to transmit data for PSoC 4100S MAX devices. <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc4-i2s/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc4</req_capabilities>
     <versions>
@@ -281,22 +281,22 @@
     <id>cce-mtb-xmc-pmsm-foc-sl</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-xmc-pmsm-foc-sl</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
-    the Readme.<br><br>This code example demonstrates the sensorless PMSM FOC motor control application using XMC1300/1400. In order to test this software, XMC1000 Motor Control Application Kit is needed. According to the user preference, XMC1300 or XMC1400 board can be used with this kit.<br><br>For more details, see the 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This code example demonstrates the sensorless PMSM FOC motor control application using XMC1300/1400. In order to test this software, XMC1000 Motor Control Application Kit is needed. According to the user preference, XMC1300 or XMC1400 board can be used with this kit.<br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-xmc-pmsm-foc-sl/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>xmc1300 xmc1400</req_capabilities>
     <versions>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>Latest 1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>1.1.0 release</num>
         <commit>release-v1.1.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
@@ -307,22 +307,22 @@
     <id>cce-mtb-xmc-pmsm-foc-sl-dc</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-xmc-pmsm-foc-sl-dc</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
-    the Readme.<br><br>This community code example (CCE) demonstrates the sensorless PMSM FOC motor control application using XMC1300/1400 Drive Card. In order to test this software; XMC1300 or XMC1400 Drive Card, 3-phase DC power board, and Nanotec DC motor (DB42S03) are needed.<br><br>For more details, see the 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This community code example (CCE) demonstrates the sensorless PMSM FOC motor control application using XMC1300/1400 Drive Card. In order to test this software; XMC1300 or XMC1400 Drive Card, 3-phase DC power board, and Nanotec DC motor (DB42S03) are needed.<br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-xmc-pmsm-foc-sl-dc/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>xmc1300 xmc1400</req_capabilities>
     <versions>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>Latest 1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>1.1.0 release</num>
         <commit>release-v1.1.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
@@ -333,22 +333,22 @@
     <id>cce-mtb-xmc44-pmsm-foc-sl-dc</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-xmc44-pmsm-foc-sl-dc</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
-    the Readme.<br><br>This community code example (CCE) demonstrates the sensorless PMSM FOC motor control application using XMC4400 Drive Card. In order to test this software; XMC4400 Drive Card, 3-phase DC power board, and Nanotec DC motor (DB42S03) are needed. <br><br>For more details, see the 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This community code example (CCE) demonstrates the sensorless PMSM FOC motor control application using XMC4400 Drive Card. In order to test this software; XMC4400 Drive Card, 3-phase DC power board, and Nanotec DC motor (DB42S03) are needed. <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-xmc44-pmsm-foc-sl-dc/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>xmc4400</req_capabilities>
     <versions>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>Latest 1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>1.1.0 release</num>
         <commit>release-v1.1.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
@@ -359,19 +359,19 @@
     <id>cce-mtb-xmc-bldc-scalar-hall</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-xmc-bldc-scalar-hall</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
     the Readme.<br><br>This community code example (CCE) demonstrates Hall sensor based three phase BLDC motor control application using XMC1300 Boot Kit. In order to test this software, XMC1000 Motor Control Application Kit is needed.
-<br><br>For more details, see the 
+<br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-xmc-bldc-scalar-hall/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>xmc1300</req_capabilities>
     <versions>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>Latest 1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
@@ -382,19 +382,19 @@
     <id>cce-mtb-xmc-bldc-scalar-sl</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-xmc-bldc-scalar-sl</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
     the Readme.<br><br>This community code example (CCE) demonstrates sensorless three-phase BLDC motor control application using XMC1300 Boot Kit. In order to test this software, XMC1000 Motor Control Application Kit is needed.
-<br><br>For more details, see the 
+<br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-xmc-bldc-scalar-sl/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>xmc1300</req_capabilities>
     <versions>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>Latest 1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.1" tools_max_version="3.2.0" req_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
@@ -405,11 +405,11 @@
     <id>cce-mtb-psoc6-smbus-slave</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-smbus-slave</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
     the Readme.<br><br>This example demonstrates how to implement the SMBus slave on top of an SCB I2C and Timer in PSoC 6.
-<br><br>For more details, see the 
+<br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc6-smbus-slave/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -428,11 +428,11 @@
     <id>cce-mtb-cce-mtb-psoc6-dac-sine</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-dac-sine</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) 
-    released for the benefit of the community users. These projects have only 
-    been tested for the listed BSPs, tools versions and toolchains documented in 
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
     the Readme.<br><br>This code example demonstrates the use of the CTDAC HAL driver to generate a sine wave using the CTDAC component.In this example, the project uses a combination of device configurator and PDL APIs to achieve this.
-<br><br>For more details, see the 
+<br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc6-dac-sine/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
