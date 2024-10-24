@@ -469,4 +469,27 @@
       </version>
     </versions>
   </app>
+  <app keywords="xmc,xmc7000,hyperram" req_capabilities_v2="qspi uart xmc7000">
+    <name>HYPERRAM read and write</name>
+    <id>cce-mtb-xmc72-hyperram-readwrite</id>
+    <category>Community Code Examples</category>
+    <uri>https://github.com/Infineon/cce-mtb-xmc72-hyperram-readwrite</uri>
+    <description><![CDATA[Disclaimer: This is a community code example (CCE)
+    released for the benefit of the community users. These projects have only
+    been tested for the listed BSPs, tools versions and toolchains documented in
+    the Readme.<br><br>This example demonstrates interfacing with an external HYPERBUS&trade; memory (HYPERRAM&trade; or PSRAM) and access it using the serial memory interface (SMIF) block of an XMC7200 MCU.
+<br><br>For more details, see the
+    <a href="https://github.com/Infineon/cce-mtb-xmc72-hyperram-readwrite/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>qspi uart xmc7000</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.3.0" req_capabilities_per_version_v2="[bsp_gen5] [kit_xmc72_evk,kit_xmc72_evk_mur_43439m2]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.3.0" req_capabilities_per_version_v2="[bsp_gen5] [kit_xmc72_evk,kit_xmc72_evk_mur_43439m2]">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
 </apps>
