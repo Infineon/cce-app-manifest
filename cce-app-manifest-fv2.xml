@@ -4,7 +4,7 @@
     <id>cce-mtb-psoc6-dps310</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-dps310</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This example demonstrates how to interface the Infineon DPS310 pressure sensors evaluation board with PSoC&#8482; 6 MCU. The sensor-xensive-dps3xx library is used in this example for initializing and reading of temperature and pressure data from the DPS310 Barometric pressure sensor.
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This example demonstrates how to interface the Infineon DPS310 pressure sensors evaluation board with PSOC&#8482; 6 MCU. The sensor-xensive-dps3xx library is used in this example for initializing and reading of temperature and pressure data from the DPS310 Barometric pressure sensor.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc6-dps310/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -27,7 +27,7 @@
     <id>cce-mtb-mqtt-client-over-lte</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-mqtt-client-over-lte</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This community code example (CCE) demonstrates the implementation of LTE CAT M1 connectivity to PSoC&#8482; 6 via Point-to-Point Protocol (PPP). This CCE demonstrates the steps to add LTE connectivity to any existing Wi-Fi based code example. mtb-example-anycloud-mqtt-client is taken as a reference here. GM01Q_Sequans Module is used for providing LTE connectivity for PSoC&#8482; 6 device. The MQTT Library and lwIP is hosted in PSoC&#8482; 6 and the GM01Q Module communicates to PSoC&#8482; 6 via PPP.In order to test this sample you need Monarch-GM01Q-EVK and one of the PSoC&#8482; 6 kits mentioned in Supported kit section.
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This community code example (CCE) demonstrates the implementation of LTE CAT M1 connectivity to PSOC&#8482; 6 via Point-to-Point Protocol (PPP). This CCE demonstrates the steps to add LTE connectivity to any existing Wi-Fi based code example. mtb-example-anycloud-mqtt-client is taken as a reference here. GM01Q_Sequans Module is used for providing LTE connectivity for PSOC&#8482; 6 device. The MQTT Library and lwIP is hosted in PSOC&#8482; 6 and the GM01Q Module communicates to PSOC&#8482; 6 via PPP.In order to test this sample you need Monarch-GM01Q-EVK and one of the PSOC&#8482; 6 kits mentioned in Supported kit section.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-mqtt-client-over-lte/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -50,7 +50,7 @@
     <id>cce-mtb-psoc6-lvd</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-lvd</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example demonstrates how to configure a PSoC&#8482; 6 Low Voltage Block to generate interrupt when the voltage level crosses the set threshold.
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example demonstrates how to configure a PSOC&#8482; 6 Low Voltage Block to generate interrupt when the voltage level crosses the set threshold.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc6-lvd/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -69,7 +69,7 @@
     <id>cce-mtb-psoc4-capsense-fss</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-capsense-fss</uri>
-    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example implements Flanking Sensor Suppression (FSS) in PSoC&#8482; 4 devices. FSS eliminates false touches by distinguishing between signals from closely spaced buttons. In the project, three sensors have been used to demonstrate FSS. Whenever multiple sensors are touched, only the sensor whose touch was detected first remains active, and the other sensors are rendered inactive, i.e., their touch (if any) is rendered invalid until the sensor whose touch was detected first is active. This eliminates sensors, which are closely spaced, from being falsely triggered at the same time.
+    <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>This code example implements Flanking Sensor Suppression (FSS) in PSOC&#8482; 4 devices. FSS eliminates false touches by distinguishing between signals from closely spaced buttons. In the project, three sensors have been used to demonstrate FSS. Whenever multiple sensors are touched, only the sensor whose touch was detected first remains active, and the other sensors are rendered inactive, i.e., their touch (if any) is rendered invalid until the sensor whose touch was detected first is active. This eliminates sensors, which are closely spaced, from being falsely triggered at the same time.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc4-capsense-fss/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc4</req_capabilities>
     <versions>
@@ -84,13 +84,13 @@
     </versions>
   </app>
   <app keywords="psoc61,mcuboot,cce,bootloader" req_capabilities_v2="[cy8ckit_062s2_43012]">
-    <name>MCUboot based Basic Bootloader for PSoC 61</name>
+    <name>MCUboot based Basic Bootloader for PSOC 61</name>
     <id>cce-mtb-psoc61-mcuboot-bootloader</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc61-mcuboot-bootloader</uri>
     <description><![CDATA[Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions and toolchains documented in the Readme.<br><br>They are intended to demonstrate how a solution / concept / use-case can be achieved on a particular device.
-      This community code example (CCE) demonstrates the implementation of MCUBoot based bootloader for PSoC&#8482; 61 MCU devices. This CCE is derived from mtb-example-psoc6-mcuboot-basic and PSoC&#8482; 61 support to run both Application and Bootloader from CM4 CPU is added.
-      In order to test this sample you need target board with PSoC&#8482; 61. You can replace the PSoC&#8482; 6 IC on one of the PSoC&#8482; 6 development kits with PSoC&#8482; 61 MCU IC.
+      This community code example (CCE) demonstrates the implementation of MCUBoot based bootloader for PSOC&#8482; 61 MCU devices. This CCE is derived from mtb-example-psoc6-mcuboot-basic and PSOC&#8482; 61 support to run both Application and Bootloader from CM4 CPU is added.
+      In order to test this sample you need target board with PSOC&#8482; 61. You can replace the PSOC&#8482; 6 IC on one of the PSOC&#8482; 6 development kits with PSOC&#8482; 61 MCU IC.
     <br><br>For more details, see the <a href="https://github.com/Infineon/cce-mtb-psoc61-mcuboot-bootloader/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -125,7 +125,7 @@
     </versions>
   </app>
   <app keywords="psoc4,capsense,pipeline,scanning" req_capabilities_v2="[cy8ckit_149]">
-    <name>PSoC4 CAPSENSE with Pipeline Scanning</name>
+    <name>PSOC4 CAPSENSE with Pipeline Scanning</name>
     <id>cce-mtb-psoc4-capsense-pipeline-scanning</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-capsense-pipeline-scanning</uri>
@@ -145,14 +145,14 @@
     </versions>
   </app>
   <app keywords="psoc6,Bluetooth,A2DP,mtb-flow" req_capabilities_v2="[cy8ckit_062s2_43012,cy8cproto_062_4343w,cy8cproto_062s2_43439]">
-    <name>PSoC6 Bluetooth A2DP Source</name>
+    <name>PSOC6 Bluetooth A2DP Source</name>
     <id>cce-mtb-psoc6-bt-a2dp-source</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-bt-a2dp-source</uri>
     <description><![CDATA[Disclaimer: This is a community code example (CCE)
     released for the benefit of the community users. These projects have only
     been tested for the listed BSPs, tools versions and toolchains documented in
-    the Readme.<br><br>This application demonstrates Bluetooth&#174; A2DP audio streaming at 48KHz, 16 bit, stereo on PSoC&#8482; 6 devices. <br><br>For more details, see the
+    the Readme.<br><br>This application demonstrates Bluetooth&#174; A2DP audio streaming at 48KHz, 16 bit, stereo on PSOC&#8482; 6 devices. <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc6-bt-a2dp-source/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
@@ -171,7 +171,7 @@
     </versions>
   </app>
   <app keywords="psoc6,SAR,ADC,mtb-flow" req_capabilities_v2="[cy8ckit_062s2_43012,cy8cproto_062_4343w, cy8ckit_062_wifi_bt]">
-    <name>PSoC6 Extending the number of SAR ADC channels</name>
+    <name>PSOC6 Extending the number of SAR ADC channels</name>
     <id>cce-mtb-psoc6-amux-sar-adc</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-amux-sar-adc</uri>
@@ -193,7 +193,7 @@
     </versions>
   </app>
   <app keywords="psoc6,tcpwm,timer,interrupt,mtb-flow" req_capabilities_v2="[cy8ckit_062_ble,cy8ckit_062s2_43012,cy8cproto_062_4343w, cy8ckit_062_wifi_bt]">
-    <name>PSoC6 MCU Interrupt TCPWM</name>
+    <name>PSOC6 MCU Interrupt TCPWM</name>
     <id>cce-mtb-psoc6-tcpwm-interrupt</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-tcpwm-interrupt</uri>
@@ -215,14 +215,14 @@
     </versions>
   </app>
   <app keywords="psoc4,capsense,guard-sensor,mtb-flow" req_capabilities_v2="[cy8ckit_041s_max]">
-    <name>PSoC4 MCU CAPSENSE MSC Guard Sensor</name>
+    <name>PSOC4 MCU CAPSENSE MSC Guard Sensor</name>
     <id>cce-mtb-psoc4-msc-capsense-guard</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-msc-capsense-guard</uri>
     <description><![CDATA[Disclaimer: This is a community code example (CCE)
     released for the benefit of the community users. These projects have only
     been tested for the listed BSPs, tools versions and toolchains documented in
-    the Readme.<br><br>This code example features the CAPSENSE&#8482; guard sensor in PSoC&#8482; 4 devices with Multi sense converter (MSC). The on-board LED will glow when touch is detected on trackpad but when the guard sensor is triggered due to liquid stream present on guard sensor surface, the on-board LED will stop glowing. The code example also demonstrates monitoring CAPSENSE&#8482; data using the CAPSENSE&#8482; Tuner GUI tool <br><br>For more details, see the
+    the Readme.<br><br>This code example features the CAPSENSE&#8482; guard sensor in PSOC&#8482; 4 devices with Multi sense converter (MSC). The on-board LED will glow when touch is detected on trackpad but when the guard sensor is triggered due to liquid stream present on guard sensor surface, the on-board LED will stop glowing. The code example also demonstrates monitoring CAPSENSE&#8482; data using the CAPSENSE&#8482; Tuner GUI tool <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc4-msc-capsense-guard/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc4</req_capabilities>
     <versions>
@@ -237,7 +237,7 @@
     </versions>
   </app>
   <app keywords="psoc4,flash,chip,protection,mtb-flow" req_capabilities_v2="[cy8ckit_149]">
-    <name>PSoC4 MCU Flash and Chip Protection</name>
+    <name>PSOC4 MCU Flash and Chip Protection</name>
     <id>cce-mtb-psoc4-flash-and-chip-protection</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-flash-and-chip-protection</uri>
@@ -259,14 +259,14 @@
     </versions>
   </app>
   <app keywords="psoc4,i2s,transmit,mtb-flow " req_capabilities_v2="[cy8ckit_041s_max]">
-    <name>PSoC 4 MCU Inter-IC Sound</name>
+    <name>PSOC 4 MCU Inter-IC Sound</name>
     <id>cce-mtb-psoc4-i2s</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc4-i2s</uri>
     <description><![CDATA[Disclaimer: This is a community code example (CCE)
     released for the benefit of the community users. These projects have only
     been tested for the listed BSPs, tools versions and toolchains documented in
-    the Readme.<br><br>This example demonstrates how the I2S block can be configured to transmit data for PSoC 4100S MAX devices. <br><br>For more details, see the
+    the Readme.<br><br>This example demonstrates how the I2S block can be configured to transmit data for PSOC 4100S MAX devices. <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc4-i2s/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc4</req_capabilities>
     <versions>
@@ -405,14 +405,14 @@
     </versions>
   </app>
   <app keywords="psoc6,smbus,slave,mtb-flow" req_capabilities_v2="[cy8ckit_062_wifi_bt]">
-    <name>PSoC 6 MCU SMBus slave</name>
+    <name>PSOC 6 MCU SMBus slave</name>
     <id>cce-mtb-psoc6-smbus-slave</id>
     <category>Community Code Examples</category>
     <uri>https://github.com/Infineon/cce-mtb-psoc6-smbus-slave</uri>
     <description><![CDATA[Disclaimer: This is a community code example (CCE)
     released for the benefit of the community users. These projects have only
     been tested for the listed BSPs, tools versions and toolchains documented in
-    the Readme.<br><br>This example demonstrates how to implement the SMBus slave on top of an SCB I2C and Timer in PSoC 6.
+    the Readme.<br><br>This example demonstrates how to implement the SMBus slave on top of an SCB I2C and Timer in PSOC 6.
 <br><br>For more details, see the
     <a href="https://github.com/Infineon/cce-mtb-psoc6-smbus-slave/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
